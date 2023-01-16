@@ -333,7 +333,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"三体",
 			src:"https://www.musestar.top/teleplay/3body",
-			img:"https://s1.imagehub.cc/images/2022/12/04/571dd22845fe225f99129b3aa55624c4.jpeg",
+			img:"https://s1.imagehub.cc/images/2023/01/16/5e32727ab66df0680b3a2ce0a40375c8.webp",
 			releaseDate:new Date(2023,1,15),
 			classify:"科幻",
 			country:"中国",
