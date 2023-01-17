@@ -182,6 +182,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:06:44"
 		},
 		{
+			title:"名侦探柯南：万圣节的新娘",
+			src:"https://www.musestar.top/film/mztknwsjdxn",
+			img:"https://s1.imagehub.cc/images/2023/01/17/e97a0886d38cb903fd48cc39092b6a92.webp",
+			releaseDate:new Date(2022,4,15),
+			classify:"动画",
+			country:"日本",
+			state:"影片时长: 1:50:27"
+		},	
+		{
 			title:"神奇动物3：邓布利多之谜",
 			src:"https://www.musestar.top/film/FantasticBeasts3",
 			img:"https://s1.imagehub.cc/images/2022/12/13/31b7952ebad3601ff8b67e859cad65d2.webp",
