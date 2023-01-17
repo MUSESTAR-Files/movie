@@ -326,6 +326,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:16:28"
 		},
 		{
+			title:"熊出没·原始时代",
+			src:"https://www.musestar.top/film/xcmyssd",
+			img:"https://s1.imagehub.cc/images/2023/01/18/2d91f094af3a71ffa0f54a8d3e391bc8.webp",
+			releaseDate:new Date(2019,2,5),
+			classify:"动画",
+			country:"中国",
+			state:"影片时长: 1:32:22"
+		},		
+		{
 			title:"海王",
 			src:"https://www.musestar.top/film/Aquaman/01",
 			img:"https://s1.imagehub.cc/images/2023/01/02/d0648c7c7bc6df53ff0d5788d41fe769.webp",
