@@ -245,6 +245,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:45:50"
 		},
 		{
+			title:"熊出没·重返地球",
+			src:"https://www.musestar.top/film/xcmcfdq",
+			img:"https://s1.imagehub.cc/images/2023/01/17/2025c8d38d6161cac977fb11ebf4962d.webp",
+			releaseDate:new Date(2022,2,1),
+			classify:"动画",
+			country:"中国",
+			state:"影片时长: 1:45:50"
+		},	
+		{
 			title:"这个杀手不太冷静",
 			src:"https://www.musestar.top/film/TooCoolToKill",
 			img:"https://s1.imagehub.cc/images/2022/12/12/9173c7851d77b828c0ff31c73e39538b.jpeg",
