@@ -254,6 +254,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:45:50"
 		},
 		{
+			title:"喜羊羊与灰太狼之筐出未来",
+			src:"https://www.musestar.top/film/xyyyhtlzkcwl",
+			img:"https://s1.imagehub.cc/images/2023/01/18/e0add403fa73c7de9bead91f7cbe39b2.webp",
+			releaseDate:new Date(2022,2,1),
+			classify:"动画",
+			country:"中国",
+			state:"影片时长: 1:34:17"
+		},		
+		{
 			title:"熊出没·重返地球",
 			src:"https://www.musestar.top/film/xcmcfdq",
 			img:"https://s1.imagehub.cc/images/2023/01/17/2025c8d38d6161cac977fb11ebf4962d.webp",
