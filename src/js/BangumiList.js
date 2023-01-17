@@ -7,7 +7,7 @@ export const TheImgList = ()=> {
 		{src: "https://s1.imagehub.cc/images/2023/01/10/db5169f7db56b546cd7bffd214555faf.jpeg", href: 'https://www.musestar.top/film/Avatar2/01'}
 	];
 }
-//下面是番剧列表
+//下面是电影列表
 export const TheBangumiList = ()=>{
 	return [
 		{
@@ -308,6 +308,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:54:34"
 		},
 		{
+			title:"熊出没之年货",
+			src:"https://www.musestar.top/film/xcmznh",
+			img:"https://s1.imagehub.cc/images/2023/01/17/4502375368a9c53782c0c21553cb0461.webp",
+			releaseDate:new Date(2014,1,30),
+			classify:"动画",
+			country:"中国",
+			state:"影片时长: 54:59"
+		},
+		{
 			title:"阿凡达",
 			src:"https://www.musestar.top/film/Avatar",
 			img:"https://s1.imagehub.cc/images/2022/12/12/5e9364052e99b6d550d11697267b1423.webp",
@@ -327,7 +336,7 @@ export const TheBangumiList = ()=>{
 		},
 	]
 }
-//下面是剧场列表
+//下面是剧集列表
 export const TheBangumiMoveList = ()=>{
 	return [
 		{
