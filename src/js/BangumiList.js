@@ -188,7 +188,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,4,15),
 			classify:"动画",
 			country:"日本",
-			state:"影片时长: 1:50:27"
+			state:"影片时长: 1:34:14"
 		},	
 		{
 			title:"神奇动物3：邓布利多之谜",
