@@ -251,7 +251,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2022,2,1),
 			classify:"动画",
 			country:"中国",
-			state:"影片时长: 1:45:50"
+			state:"影片时长: 1:39:36"
 		},	
 		{
 			title:"这个杀手不太冷静",
