@@ -382,7 +382,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2023,1,15),
 			classify:"科幻",
 			country:"中国",
-			state:"总集数：24"
+			state:"总集数：30"
 		},
 		{
 			title:"回来的女儿",
