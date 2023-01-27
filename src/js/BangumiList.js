@@ -17,17 +17,8 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,22),
 			classify:"科幻",
 			country:"中国",
-			state:"影片时长: x:xx:xx"
+			state:"影片时长: 2:40:40"
 		},
-		{
-			title:"狙击手：逆战",
-			src:"https://www.musestar.top/film/jjsnz",
-			img:"https://s1.imagehub.cc/images/2023/01/18/5b0c5b6d021fd2b2a783be581d440ed6.webp",
-			releaseDate:new Date(2023,1,13),
-			classify:"动作",
-			country:"中国",
-			state:"影片时长: 1:23:26"
-		},		
 		{
 			title:"2022的年度影视混剪",
 			src:"https://www.musestar.top/film/2022",
