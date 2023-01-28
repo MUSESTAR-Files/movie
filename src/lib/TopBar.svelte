@@ -6,7 +6,7 @@
 
     <div class="THeTopBar" class:TheTopBarPC={!isMobile} class:TheTopBarMo={isMobile}>
         <a class="oneBlock" href="https://www.musestar.top/">
-            <img src=https://www.musestar.top/ms.ico alt="Musestar" class="msIcon">
+            <img src=https://www.musestar.top/favicon.ico alt="Musestar" class="msIcon">
         </a>
         <div class="inTopA inTopFirst hgLtBox">
             <a href="https://www.musestar.top/movie" class="hgLt">缪斯星影视</a>

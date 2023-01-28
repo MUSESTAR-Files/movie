@@ -7,7 +7,7 @@
 <main>
     <div class="bottomBar">
         <a class="iconBox" class:myActive={isTouch===0} on:pointerdown={()=>isTouch=0} href="https://www.musestar.top/">
-            <img src="https://www.musestar.top/ms.ico" alt="主页" class="defImgIcon">
+            <img src="https://www.musestar.top/favicon.ico" alt="主页" class="defImgIcon">
             <p class="iconName">首页</p>
         </a>
         <a class="iconBox" class:myActive={isTouch===1} on:pointerdown={()=>isTouch=1} href="https://www.musestar.top/animation">
