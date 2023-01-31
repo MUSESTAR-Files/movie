@@ -17,7 +17,16 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,22),
 			classify:"科幻",
 			country:"中国",
-			state:"影片时长: 2:40:40"
+			state:"影片时长: 2:39:59"
+		},
+		{
+			title:"满江红",
+			src:"https://www.musestar.top/film/FullRiverRed",
+			img:"https://s1.imagehub.cc/images/2023/01/31/0e81148845c2e9220af6630f3bc3bec0.webp",
+			releaseDate:new Date(2023,1,22),
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 2:27:23"
 		},
 		{
 			title:"2022的年度影视混剪",
