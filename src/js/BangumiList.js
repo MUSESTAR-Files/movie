@@ -24,7 +24,7 @@ export const TheBangumiList = ()=>{
 			src:"https://www.musestar.top/film/FullRiverRed",
 			img:"https://s1.imagehub.cc/images/2023/01/31/0e81148845c2e9220af6630f3bc3bec0.webp",
 			releaseDate:new Date(2023,1,22),
-			classify:"剧情",
+			classify:"悬疑",
 			country:"中国",
 			state:"影片时长: 2:27:23"
 		},
@@ -392,6 +392,15 @@ export const TheBangumiMoveList = ()=>{
 			classify:"科幻",
 			country:"中国",
 			state:"总集数：30"
+		},
+		{
+			title:"狂飙",
+			src:"https://www.musestar.top/teleplay/PunchOut",
+			img:"https://s1.imagehub.cc/images/2023/02/01/b1454e2a4abca9d53dafd97baf3b912c.webp",
+			releaseDate:new Date(2023,1,14),
+			classify:"犯罪",
+			country:"中国",
+			state:"总集数：39"
 		},
 		{
 			title:"回来的女儿",
