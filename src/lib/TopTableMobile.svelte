@@ -1,7 +1,7 @@
 <script>
 	import ScroImgMobile from './ScroImgMobile.svelte';
     export let imgList = [
-        {src: '图片', href: 'https://www.musestar.top/'}
+        {src: '图片', href: 'https://www.musestar.cc/'}
     ]
 	export let width = 320;
 </script>
