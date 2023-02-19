@@ -3,13 +3,22 @@ export const TheImgList = ()=> {
 	return [
 		{src: "https://s1.imagehub.cc/images/2023/01/12/c8de0b7a508dc61d094c64bcd00e2df6.jpeg", href: 'https://www.musestar.cc/teleplay/TheGoodDoctor6'},
 		{src: "https://s1.imagehub.cc/images/2023/01/02/49348cf0d5976eb8567f845bb616ae38.webp", href: 'https://www.musestar.cc/teleplay/3body'},
-		{src: "https://s1.imagehub.cc/images/2023/01/10/074621ee47057a5123d754ace61594da.jpeg", href: 'https://www.musestar.cc/film/TheWanderingEarth2'},
-		{src: "https://s1.imagehub.cc/images/2023/01/10/db5169f7db56b546cd7bffd214555faf.jpeg", href: 'https://www.musestar.cc/film/Avatar2/01'}
+		{src: "https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp", href: 'https://www.musestar.cc/film/TheWanderingEarth2'},
+		{src: "https://s1.imagehub.cc/images/2023/01/10/db5169f7db56b546cd7bffd214555faf.jpeg", href: 'https://www.musestar.cc/film/AntMan3'}
 	];
 }
 //下面是电影列表
 export const TheBangumiList = ()=>{
 	return [
+		{
+			title:"蚁人与黄蜂女：量子狂潮",
+			src:"https://www.musestar.cc/film/AntMan3",
+			img:"https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp",
+			releaseDate:new Date(2023,2,17),
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:52:21"
+		},
 		{
 			title:"流浪地球2",
 			src:"https://www.musestar.cc/film/TheWanderingEarth2",
