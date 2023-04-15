@@ -74,7 +74,7 @@ export const TheBangumiList = ()=>{
         },
 		{
 			title:"阿凡达2：水之道",
-			src:"https://www.musestar.cc/film/Avatar2/01",
+			src:"https://www.musestar.cc/film/Avatar2",
 			img:"https://s1.imagehub.cc/images/2022/12/16/852ece4d2e2d5d3347f0027b2528f0e6.webp",
 			releaseDate:new Date(2022,12,16),
 			classify:"科幻",
