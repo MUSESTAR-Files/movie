@@ -1,15 +1,32 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/01/12/c8de0b7a508dc61d094c64bcd00e2df6.jpeg", href: 'https://www.musestar.cc/teleplay/TheGoodDoctor6'},
-		{src: "https://s1.imagehub.cc/images/2023/01/02/49348cf0d5976eb8567f845bb616ae38.webp", href: 'https://www.musestar.cc/teleplay/3body'},
-		{src: "https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp", href: 'https://www.musestar.cc/film/TheWanderingEarth2'},
-		{src: "https://s1.imagehub.cc/images/2023/01/10/db5169f7db56b546cd7bffd214555faf.jpeg", href: 'https://www.musestar.cc/film/AntMan3'}
+		{src: "https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp", href: 'https://www.musestar.cc/film/AntMan3'},
+		{src: "https://s1.imagehub.cc/images/2023/01/02/49348cf0d5976eb8567f845bb616ae38.webp", href: 'https://www.musestar.cc/film/Tetris'},
+		{src: "https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp", href: 'https://www.musestar.cc/film/TheWanderingEarth2'}
 	];
 }
 //下面是电影列表
 export const TheBangumiList = ()=>{
 	return [
+		{
+			title:"俄罗斯方块",
+			src:"https://www.musestar.cc/film/Tetris",
+			img:"https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp",
+			releaseDate:new Date(2023,3,31),
+			classify:"传记",
+			country:"美国",
+			state:"影片时长: 1:57:44"
+		},
+		{
+			title:"雷霆沙赞！众神之怒",
+			src:"https://www.musestar.cc/film/Shazam2",
+			img:"https://s1.imagehub.cc/images/2023/04/15/44323817b449dd0dc8fd6d2c80ca72d3.webp",
+			releaseDate:new Date(2023,3,17),
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:10:13"
+		},
 		{
 			title:"蚁人与黄蜂女：量子狂潮",
 			src:"https://www.musestar.cc/film/AntMan3",
@@ -26,7 +43,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,1,22),
 			classify:"科幻",
 			country:"中国",
-			state:"影片时长: 2:39:59"
+			state:"影片时长: 2:53:22"
 		},
 		{
 			title:"满江红",
