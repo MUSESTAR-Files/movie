@@ -10,6 +10,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"搜索电影",
+			src:"http://www.musestars.top/",
+			img:"https://api.anosu.top/api/?sort=all",
+			releaseDate:new Date(2024,1,1),
+			classify:"自定义",
+			country:"搜索",
+			state:"第三方播放源在线播放"
+		},
+		{
 			title:"俄罗斯方块",
 			src:"https://www.musestar.cc/film/Tetris",
 			img:"https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp",
@@ -410,6 +419,15 @@ export const TheBangumiList = ()=>{
 //下面是剧集列表
 export const TheBangumiMoveList = ()=>{
 	return [
+		{
+			title:"搜索剧集",
+			src:"http://www.musestars.top/",
+			img:"https://api.anosu.top/api/?sort=all",
+			releaseDate:new Date(2024,1,1),
+			classify:"自定义",
+			country:"搜索",
+			state:"第三方播放源在线播放"
+		},
 		{
 			title:"三体",
 			src:"https://www.musestar.cc/teleplay/3body",

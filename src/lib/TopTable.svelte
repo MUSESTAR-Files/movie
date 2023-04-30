@@ -8,11 +8,11 @@
 
 <main>
     <div class="outBox">
-        <img class="pImg" src="https://s1.imagehub.cc/images/2023/01/07/1df6afb9e441c96f03f9eb6e08bdee01.png" alt="anisphere">
+        <img class="pImg" src="https://s1.imagehub.cc/images/2023/04/30/l.webp" alt="anisphere">
         <div class="forImg">
             <ScroImg {imgList}/>
         </div>
-        <img class="pImg" src="https://s1.imagehub.cc/images/2023/01/07/c338f0618a89c7260cc42d6c07b1162f.png" alt="euphilia">
+        <img class="pImg" src="https://s1.imagehub.cc/images/2023/04/30/r.webp" alt="euphilia">
     </div>
 </main>
 
