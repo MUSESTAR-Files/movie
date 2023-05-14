@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"银河护卫队3",
+			src:"https://www.musestar.cc/film/GuardiansoftheGalaxy3",
+			img:"https://s1.imagehub.cc/images/2023/05/14/GuardiansoftheGalaxy3.webp",
+			releaseDate:new Date(2023,5,5),
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:30:10"
+		},
+		{
 			title:"俄罗斯方块",
 			src:"https://www.musestar.cc/film/Tetris",
 			img:"https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp",
@@ -35,6 +44,15 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"美国",
 			state:"影片时长: 2:10:13"
+		},
+		{
+			title:"保你平安",
+			src:"https://www.musestar.cc/film/PostTruth",
+			img:"https://s1.imagehub.cc/images/2023/05/14/PostTruth.webp",
+			releaseDate:new Date(2023,3,10),
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 1:51:24"
 		},
 		{
 			title:"蚁人与黄蜂女：量子狂潮",
