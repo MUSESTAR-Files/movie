@@ -20,7 +20,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"变形金刚7：超能勇士崛起",
-			src:"https://www.musestar.cc/film/Transformers7.jpg",
+			src:"https://www.musestar.cc/film/Transformers7",
 			img:"https://s1.imagehub.cc/images/2023/06/12/Transformers7.webp",
 			releaseDate:new Date(2023,6,9),
 			classify:"科幻",
