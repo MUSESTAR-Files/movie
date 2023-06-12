@@ -19,13 +19,22 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"变形金刚7：超能勇士崛起",
+			src:"https://www.musestar.cc/film/Transformers7.jpg",
+			img:"https://s1.imagehub.cc/images/2023/06/12/Transformers7.webp",
+			releaseDate:new Date(2023,6,9),
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:57:40"
+		},
+		{
 			title:"蜘蛛侠：纵横宇宙",
 			src:"https://www.musestar.cc/film/Spider-ManAcrosstheSpider-VersePartOne",
 			img:"https://s1.imagehub.cc/images/2023/06/12/Spider-ManAcrosstheSpider-VersePartOne.webp",
 			releaseDate:new Date(2023,6,2),
 			classify:"动画",
 			country:"美国",
-			state:"影片时长: 2:30:10"
+			state:"影片时长: 2:16:06"
 		},
 		{
 			title:"速度与激情10",
