@@ -19,6 +19,24 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"蜘蛛侠：纵横宇宙",
+			src:"https://www.musestar.cc/film/Spider-ManAcrosstheSpider-VersePartOne",
+			img:"https://s1.imagehub.cc/images/2023/06/12/Spider-ManAcrosstheSpider-VersePartOne.webp",
+			releaseDate:new Date(2023,6,2),
+			classify:"动画",
+			country:"美国",
+			state:"影片时长: 2:30:10"
+		},
+		{
+			title:"速度与激情10",
+			src:"https://www.musestar.cc/film/Fast10",
+			img:"https://s1.imagehub.cc/images/2023/06/12/Fast10.webp",
+			releaseDate:new Date(2023,5,17),
+			classify:"动作",
+			country:"美国",
+			state:"影片时长: 2:20:50"
+		},
+		{
 			title:"银河护卫队3",
 			src:"https://www.musestar.cc/film/GuardiansoftheGalaxy3",
 			img:"https://s1.imagehub.cc/images/2023/05/14/GuardiansoftheGalaxy3.webp",
