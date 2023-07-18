@@ -1,9 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp", href: 'https://www.musestar.cc/film/AntMan3'},
-		{src: "https://s1.imagehub.cc/images/2023/01/02/49348cf0d5976eb8567f845bb616ae38.webp", href: 'https://www.musestar.cc/film/Tetris'},
-		{src: "https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp", href: 'https://www.musestar.cc/film/TheWanderingEarth2'}
+		{src: "https://s1.imagehub.cc/images/2023/07/18/Flash.webp", href: 'https://www.musestar.cc/film/AntMan3'},
+		{src: "https://s1.imagehub.cc/images/2023/05/14/GuardiansoftheGalaxy3.webp", href: 'https://www.musestar.cc/film/Flash'},
+		{src: "https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp", href: 'https://www.musestar.cc/film/GuardiansoftheGalaxy3'}
 	];
 }
 //下面是电影列表
@@ -18,6 +18,15 @@ export const TheBangumiList = ()=>{
 			country:"搜索",
 			state:"第三方播放源在线播放"
 		},
+				{
+			title:"闪电侠",
+			src:"https://www.musestar.cc/film/Flash",
+			img:"https://s1.imagehub.cc/images/2023/07/18/Flash.webp",
+			releaseDate:new Date(2023,6,16),
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:07:19"
+		},
 		{
 			title:"变形金刚7：超能勇士崛起",
 			src:"https://www.musestar.cc/film/Transformers7",
@@ -25,7 +34,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,6,9),
 			classify:"科幻",
 			country:"美国",
-			state:"影片时长: 1:57:40"
+			state:"影片时长: 2:07:19"
 		},
 		{
 			title:"蜘蛛侠：纵横宇宙",
@@ -52,7 +61,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,5,5),
 			classify:"科幻",
 			country:"美国",
-			state:"影片时长: 2:30:10"
+			state:"影片时长: 2:30:02"
 		},
 		{
 			title:"俄罗斯方块",
@@ -88,7 +97,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,2,17),
 			classify:"科幻",
 			country:"美国",
-			state:"影片时长: 1:52:21"
+			state:"影片时长: 2:04:34"
 		},
 		{
 			title:"流浪地球2",
