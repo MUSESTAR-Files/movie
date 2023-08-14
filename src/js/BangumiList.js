@@ -43,7 +43,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,6,2),
 			classify:"动画",
 			country:"美国",
-			state:"影片时长: 2:16:06"
+			state:"影片时长: 2:20:05"
 		},
 		{
 			title:"速度与激情10",
