@@ -21,7 +21,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"孤注一掷（TC）",
 			src:"https://www.musestar.cc/film/NoMoreBets",
-			img:"https://s1.imagehub.cc/images/2023/07/18/Flash.webp",
+			img:"https://s1.imagehub.cc/images/2023/08/17/NoMoreBets.webp",
 			releaseDate:new Date(2023,8,8),
 			classify:"犯罪",
 			country:"中国",
