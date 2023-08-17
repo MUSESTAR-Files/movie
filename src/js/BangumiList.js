@@ -18,7 +18,25 @@ export const TheBangumiList = ()=>{
 			country:"搜索",
 			state:"第三方播放源在线播放"
 		},
-				{
+		{
+			title:"孤注一掷（TC）",
+			src:"https://www.musestar.cc/film/NoMoreBets",
+			img:"https://s1.imagehub.cc/images/2023/07/18/Flash.webp",
+			releaseDate:new Date(2023,8,8),
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 2:05:36"
+		},
+		{
+			title:"消失的她（TC）",
+			src:"https://www.musestar.cc/film/LostintheStars",
+			img:"https://s1.imagehub.cc/images/2023/08/17/LostintheStars.webp",
+			releaseDate:new Date(2023,6,22),
+			classify:"悬疑",
+			country:"中国",
+			state:"影片时长: 2:02:54"
+		},
+		{
 			title:"闪电侠",
 			src:"https://www.musestar.cc/film/Flash",
 			img:"https://s1.imagehub.cc/images/2023/07/18/Flash.webp",
