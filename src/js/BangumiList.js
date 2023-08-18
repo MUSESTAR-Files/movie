@@ -28,6 +28,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:05:36"
 		},
 		{
+			title:"超能一家人",
+			src:"https://www.musestar.cc/film/WonderFamily",
+			img:"https://s1.imagehub.cc/images/2023/08/18/WonderFamily.webp",
+			releaseDate:new Date(2023,7,21),
+			classify:"喜剧",
+			country:"中国",
+			state:"影片时长: 1:52:15"
+		},
+		{
 			title:"消失的她（TC）",
 			src:"https://www.musestar.cc/film/LostintheStars",
 			img:"https://s1.imagehub.cc/images/2023/08/17/LostintheStars.webp",
