@@ -510,6 +510,15 @@ export const TheBangumiMoveList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"国民死刑投票",
+			src:"https://www.musestar.cc/teleplay/TheKillingVote",
+			img:"https://s1.imagehub.cc/images/2023/08/25/TheKillingVote.webp",
+			releaseDate:new Date(2023,8,10),
+			classify:"剧情",
+			country:"韩国",
+			state:"总集数：10"
+		},
+		{
 			title:"三体",
 			src:"https://www.musestar.cc/teleplay/3body",
 			img:"https://s1.imagehub.cc/images/2023/01/16/5e32727ab66df0680b3a2ce0a40375c8.webp",
