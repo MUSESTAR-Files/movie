@@ -37,13 +37,13 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:52:15"
 		},
 		{
-			title:"消失的她（TC）",
+			title:"消失的她",
 			src:"https://www.musestar.cc/film/LostintheStars",
 			img:"https://s1.imagehub.cc/images/2023/08/17/LostintheStars.webp",
 			releaseDate:new Date(2023,6,22),
 			classify:"悬疑",
 			country:"中国",
-			state:"影片时长: 2:02:54"
+			state:"影片时长: 2:01:43"
 		},
 		{
 			title:"闪电侠",
