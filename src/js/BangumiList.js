@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"奥本海默（TC）",
+			src:"https://www.musestar.cc/film/Oppenheimer",
+			img:"https://s1.imagehub.cc/images/2023/08/30/Oppenheimer.webp",
+			releaseDate:new Date(2023,8,30),
+			classify:"剧情",
+			country:"美国",
+			state:"影片时长: 2:54:57"
+		},
+		{
 			title:"孤注一掷（TC）",
 			src:"https://www.musestar.cc/film/NoMoreBets",
 			img:"https://s1.imagehub.cc/images/2023/08/17/NoMoreBets.webp",
