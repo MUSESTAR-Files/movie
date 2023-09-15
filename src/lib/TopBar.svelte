@@ -15,7 +15,7 @@
             <a href="https://www.musestar.cc/animation">缪斯星动漫</a>
         </div>
         <div class="inTopA">
-            <a href="http://www.musestars.top/">缪斯星搜索</a>
+            <a href="http://search.musestar.cc/">缪斯星搜索</a>
         </div>
         <div class="inTopA inTopLast">
             <a href="https://www.musestar.cc/musestar">缪斯星官方</a>

@@ -18,7 +18,7 @@
             <span class="iconfont defIcon">&#xfc48;</span>
             <p class="iconName">影视</p>
         </a>
-        <a class="iconBox" class:myActive={isTouch===3} on:pointerdown={()=>isTouch=3} href="http://www.musestars.top/">
+        <a class="iconBox" class:myActive={isTouch===3} on:pointerdown={()=>isTouch=3} href="http://search.musestar.cc/">
             <span class="iconfont defIcon">&#xfc3a;</span>
             <p class="iconName">搜索</p>
         </a>
