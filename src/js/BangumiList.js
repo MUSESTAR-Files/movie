@@ -525,7 +525,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2023,8,10),
 			classify:"剧情",
 			country:"韩国",
-			state:"总集数：10"
+			state:"总集数：12"
 		},
 		{
 			title:"三体",
