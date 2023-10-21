@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"电锯惊魂10",
+			src:"https://www.musestar.cc/film/SawX",
+			img:"https://s1.imagehub.cc/images/2023/10/21/SawX.webp",
+			releaseDate:new Date(2023,9,29),
+			classify:"恐怖",
+			country:"美国",
+			state:"影片时长: 1:58:23"
+		},
+		{
 			title:"奥本海默（TC）",
 			src:"https://www.musestar.cc/film/Oppenheimer",
 			img:"https://s1.imagehub.cc/images/2023/08/30/Oppenheimer.webp",
