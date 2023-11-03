@@ -10,6 +10,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/bilibili",
+			img:"https://s1.imagehub.cc/images/2023/11/03/78e5c26de77ef97fa2eb59d35c5f5fde.webp",
+			releaseDate:new Date(2023,12,31),
+			classify:"晚会",
+			country:"中国",
+			state:"2023年12月31日"
+		},
+		{
 			title:"搜索电影",
 			src:"http://search.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
@@ -518,6 +527,15 @@ export const TheBangumiList = ()=>{
 //下面是剧集列表
 export const TheBangumiMoveList = ()=>{
 	return [
+		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/bilibili",
+			img:"https://s1.imagehub.cc/images/2023/11/03/78e5c26de77ef97fa2eb59d35c5f5fde.webp",
+			releaseDate:new Date(2023,12,31),
+			classify:"晚会",
+			country:"中国",
+			state:"2023年12月31日"
+		},
 		{
 			title:"搜索剧集",
 			src:"http://search.musestar.cc/",
