@@ -12,7 +12,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"2023最美的夜",
 			src:"https://www.musestar.cc/bilibili",
-			img:"https://i0.hdslb.com/bfs/bangumi/image/c17c887e82e57308baaf5e85c1af385e76594bb6.png@450w_600h.webp",
+			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
 			releaseDate:new Date(2023,12,31),
 			classify:"晚会",
 			country:"中国",
@@ -57,7 +57,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
@@ -539,7 +539,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"2023最美的夜",
 			src:"https://www.musestar.cc/bilibili",
-			img:"https://i0.hdslb.com/bfs/bangumi/image/c17c887e82e57308baaf5e85c1af385e76594bb6.png@450w_600h.webp",
+			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
 			releaseDate:new Date(2023,12,31),
 			classify:"晚会",
 			country:"中国",
@@ -575,7 +575,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
