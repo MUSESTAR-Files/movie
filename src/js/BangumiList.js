@@ -528,6 +528,15 @@ export const TheBangumiMoveList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"洛基第二季",
+			src:"https://www.musestar.cc/teleplay/Loki2",
+			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
+			releaseDate:new Date(2023,10,5),
+			classify:"科幻",
+			country:"美国",
+			state:"总集数：6"
+		},
+		{
 			title:"国民死刑投票",
 			src:"https://www.musestar.cc/teleplay/TheKillingVote",
 			img:"https://s1.imagehub.cc/images/2023/08/25/TheKillingVote.webp",
