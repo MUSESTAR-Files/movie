@@ -55,7 +55,7 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:05:36"
 		},
 		{
-			title:"2023最美的夜",
+			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
@@ -573,7 +573,7 @@ export const TheBangumiMoveList = ()=>{
 			state:"总集数：12"
 		},
 		{
-			title:"2023最美的夜",
+			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:new Date(2023,7,22),
