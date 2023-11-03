@@ -55,6 +55,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:05:36"
 		},
 		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/teleplay/BML2023/01",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			releaseDate:new Date(2023,7,22),
+			classify:"演唱会",
+			country:"中国",
+			state:"全程时长：2:25:18"
+		},
+		{
 			title:"超能一家人",
 			src:"https://www.musestar.cc/film/WonderFamily",
 			img:"https://s1.imagehub.cc/images/2023/08/18/WonderFamily.webp",
@@ -562,6 +571,15 @@ export const TheBangumiMoveList = ()=>{
 			classify:"剧情",
 			country:"韩国",
 			state:"总集数：12"
+		},
+		{
+			title:"2023最美的夜",
+			src:"https://www.musestar.cc/teleplay/BML2023/01",
+			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			releaseDate:new Date(2023,7,22),
+			classify:"演唱会",
+			country:"中国",
+			state:"全程时长：2:25:18"
 		},
 		{
 			title:"三体",
