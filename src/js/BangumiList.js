@@ -61,7 +61,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：2:25:18"
+			state:"全程时长：3:25:18"
 		},
 		{
 			title:"超能一家人",
@@ -579,7 +579,7 @@ export const TheBangumiMoveList = ()=>{
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：2:25:18"
+			state:"全程时长：3:25:18"
 		},
 		{
 			title:"三体",
