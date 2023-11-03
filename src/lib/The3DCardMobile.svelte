@@ -82,7 +82,7 @@
     >
         <div
                 class="mBox"
-                style="background-image: url({backgroundImage});transform: translateZ({-$isMouseDown+($twSize*25)}px) rotateX({$twYCer}deg) rotateY({$twXCer}deg);"
+                style="background-position: center;background-image: url({backgroundImage});transform: translateZ({-$isMouseDown+($twSize*25)}px) rotateX({$twYCer}deg) rotateY({$twXCer}deg);"
         >
             <slot></slot>
         </div>
