@@ -57,7 +57,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
@@ -575,7 +575,7 @@ export const TheBangumiMoveList = ()=>{
 		{
 			title:"BILIBILI MACRO LINK 2023",
 			src:"https://www.musestar.cc/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
+			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
 			releaseDate:new Date(2023,7,22),
 			classify:"演唱会",
 			country:"中国",
