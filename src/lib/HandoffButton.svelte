@@ -6,10 +6,12 @@
 </script>
 
 <main>
-    <div class="mainBox">
-        <button class="oneBtn fistBtn" class:isS={theS} on:click={()=>{theS=true}}>电影</button>
+
+        <button class="oneBtn fistBtn" class:isS={theS} on:click={()=>{theS=true}}>电影/剧集</button>
+        <!--
         <button class="oneBtn lastBtn" class:isS={!theS} on:click={()=>{theS=false}}>剧集</button>
-    </div>
+        -->
+
 </main>
 
 <style>

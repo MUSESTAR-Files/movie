@@ -4,16 +4,11 @@
 		title: "标题",
 		src: "链接",
 		img: "图片地址",
-		releaseDate: new Date(2023, 1, 1),
+		releaseDate: "放送日期",
 		classify: "类型",
 		country: "国家",
 		state: "上映时间：2020-10-02"
 	};
-
-	let dateString = theBangumi.releaseDate.getFullYear() + '-'
-		+ theBangumi.releaseDate.getMonth() + '-'
-		+ theBangumi.releaseDate.getDate();
-
 </script>
 
 <main>
@@ -34,7 +29,7 @@
                 {theBangumi.title}
             </a>
             <span class="theDate">
-                放送日期 {dateString}
+                放送日期 {theBangumi.releaseDate}
             </span>
         </div>
     </div>

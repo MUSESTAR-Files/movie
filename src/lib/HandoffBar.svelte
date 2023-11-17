@@ -7,8 +7,10 @@
 
 <main>
     <div class="mainBox">
-        <button class="swBtn swBtn1" class:isS={theS} on:click={()=>{theS=true}}>电影</button>
+        <button class="swBtn swBtn2" class:isS={theS} on:click={()=>{theS=true}}>电影/剧集</button>
+        <!--
         <button class="swBtn swBtn2" class:isS={!theS} on:click={()=>{theS=false}}>剧集</button>
+    -->
     </div>
 </main>
 
