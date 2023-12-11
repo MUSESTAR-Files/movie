@@ -28,6 +28,24 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"饥饿游戏：鸣鸟与蛇之歌",
+			src:"https://www.musestar.cc/film/TheHungerGamesTheBalladofSongbirdsandSnakes",
+			img:"https://s1.imagehub.cc/images/2023/12/11/f4ac2c099f701080fa03689cf972d4a7.jpeg",
+			releaseDate:"2023,11,17",
+			classify:"动作",
+			country:"美国",
+			state:"影片时长: 2:28:50"
+		},
+		{
+			title:"惊奇队长2",
+			src:"https://www.musestar.cc/film/TheMarvels2",
+			img:"https://s1.imagehub.cc/images/2023/12/11/3e8f473c4ae5dae761eeb7f6d6708acb.png",
+			releaseDate:"2023,11,10",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:37:38"
+		},
+		{
 			title:"洛基第二季",
 			src:"https://www.musestar.cc/teleplay/Loki2",
 			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
