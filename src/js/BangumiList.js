@@ -64,6 +64,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:58:23"
 		},
 		{
+			title:"坚如磐石",
+			src:"https://www.musestar.cc/film/UndertheLight",
+			img:"https://s1.imagehub.cc/images/2023/12/15/1eb3605cf794cfbcca3e153ba329089c.jpeg",
+			releaseDate:"2023,9,28",
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 2:07:32"
+		},
+		{
 			title:"奥本海默",
 			src:"https://www.musestar.cc/film/Oppenheimer",
 			img:"https://s1.imagehub.cc/images/2023/08/30/Oppenheimer.webp",
