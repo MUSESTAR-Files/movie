@@ -149,14 +149,14 @@
         }
 
         to {
-            filter: drop-shadow(0 0 10px rgba(46, 159, 227, .7));
+            filter: drop-shadow(0 0 10px #b68efb);
             transform: scale(1.2);
         }
     }
 
     @keyframes reTeShadow {
         from {
-            filter: drop-shadow(0 0 10px rgba(46, 159, 227, .7));
+            filter: drop-shadow(0 0 10px #b68efb);
             transform: scale(1.2);
         }
 
