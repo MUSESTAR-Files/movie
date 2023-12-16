@@ -259,7 +259,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,1,1",
 			classify:"混剪",
 			country:"中国",
-			state:"时长: 4:52"
+			state:"视频时长: 4:52"
 		},
         {
             title:"穿靴子的猫2",
