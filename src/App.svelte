@@ -80,6 +80,9 @@
                 </div>
             </div>
         </div>
+        <div style="text-align: center; background-size: cover;">
+            <img width=400 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
+        </div>
         <MobileUnder/>
     {:else}
         <TopBar/>
@@ -130,6 +133,9 @@
                     <i class="paddingIn"></i>
                 </div>
             </div>
+        </div>
+        <div style="text-align: center; background-size: cover;">
+            <img width=400 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
         </div>
         <div class="pcUnder">
             <PcUnder/>

@@ -10,6 +10,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"搜索",
+			src:"http://search.musestar.cc/",
+			img:"https://api.anosu.top/api/?sort=all",
+			releaseDate:"2024,1,1",
+			classify:"自定义",
+			country:"搜索",
+			state:"第三方播放源在线播放"
+		},
+		{
 			title:"2023最美的夜",
 			src:"https://www.musestar.cc/bilibili",
 			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
@@ -19,13 +28,13 @@ export const TheBangumiList = ()=>{
 			state:"2023年12月31日"
 		},
 		{
-			title:"搜索",
-			src:"http://search.musestar.cc/",
-			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2024,1,1",
-			classify:"自定义",
-			country:"搜索",
-			state:"第三方播放源在线播放"
+			title:"2023热度年度总结",
+			src:"https://www.musestar.cc/teleplay/AnnualSummaryofPopularity/2023",
+			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
+			releaseDate:"2023,12,15",
+			classify:"套娃",
+			country:"中国",
+			state:"影片时长: 10:11"
 		},
 		{
 			title:"饥饿游戏：鸣鸟与蛇之歌",
