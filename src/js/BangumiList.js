@@ -21,7 +21,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"2023最美的夜",
 			src:"https://www.musestar.cc/bilibili",
-			img:"https://s1.imagehub.cc/images/2023/11/03/27e6691cae33736abdbeb96a879d6728.webp",
+			img:"https://s1.imagehub.cc/images/2023/12/22/b35236da8ea5091d6d0a677ce67d2e0f.png",
 			releaseDate:"2023,12,31",
 			classify:"晚会",
 			country:"中国",
