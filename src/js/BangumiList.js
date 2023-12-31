@@ -19,15 +19,6 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"2023最美的夜",
-			src:"https://www.musestar.cc/bilibili",
-			img:"https://s1.imagehub.cc/images/2023/12/22/b35236da8ea5091d6d0a677ce67d2e0f.png",
-			releaseDate:"2023,12,31",
-			classify:"晚会",
-			country:"中国",
-			state:"2023年12月31日"
-		},
-		{
 			title:"2023热度年度总结",
 			src:"https://www.musestar.cc/teleplay/AnnualSummaryofPopularity/2023",
 			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
