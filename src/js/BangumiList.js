@@ -46,7 +46,7 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:37:38"
 		},
 		{
-			title:"洛基第二季",
+			title:"洛基 第二季",
 			src:"https://www.musestar.cc/teleplay/Loki2",
 			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
 			releaseDate:"2023,10,5",
