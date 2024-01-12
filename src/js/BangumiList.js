@@ -172,6 +172,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:30:02"
 		},
 		{
+			title:"三体2：黑暗森林（自制动画）",
+			src:"https://www.musestar.cc/animation/3body2zzdh",
+			img:"https://s1.imagehub.cc/images/2024/01/12/949a4fa1c27e905d49f16858aedb143d.jpeg",
+			releaseDate:"2023,4,15",
+			classify:"科幻",
+			country:"中国",
+			state:"(更新中)总话数: 未知"
+		},
+		{
 			title:"俄罗斯方块",
 			src:"https://www.musestar.cc/film/Tetris",
 			img:"https://s1.imagehub.cc/images/2023/04/15/6b8deba55eca287f19146c2db71f43d5.webp",
