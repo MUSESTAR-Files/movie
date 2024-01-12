@@ -173,7 +173,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"三体2：黑暗森林（自制动画）",
-			src:"https://www.musestar.cc/animation/3body2zzdh",
+			src:"https://www.musestar.cc/teleplay/3body2zzdh",
 			img:"https://s1.imagehub.cc/images/2024/01/12/949a4fa1c27e905d49f16858aedb143d.jpeg",
 			releaseDate:"2023,4,15",
 			classify:"科幻",
