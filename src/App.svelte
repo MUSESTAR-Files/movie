@@ -81,7 +81,7 @@
             </div>
         </div>
         <div style="text-align: center; background-size: cover;">
-            <img width=400 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
+            <img width=350 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
         </div>
         <MobileUnder/>
     {:else}
@@ -135,7 +135,7 @@
             </div>
         </div>
         <div style="text-align: center; background-size: cover;">
-            <img width=400 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
+            <img width=350 src="https://moe-counter.anjiurine.top/get/@musestar?theme=rule34" alt="musestar">
         </div>
         <div class="pcUnder">
             <PcUnder/>
