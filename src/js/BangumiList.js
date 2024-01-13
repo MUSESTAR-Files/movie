@@ -28,6 +28,15 @@ export const TheBangumiList = ()=>{
 			state:"视频时长: 10:11"
 		},
 		{
+			title:"涉过愤怒的海",
+			src:"https://www.musestar.cc/film/AcrosstheFuriousSea",
+			img:"https://s1.imagehub.cc/images/2024/01/13/cf3a7494cdcfb3eee68c3f0b3478b005.jpeg",
+			releaseDate:"2023,11,25",
+			classify:"悬疑",
+			country:"中国",
+			state:"影片时长: 2:23:55"
+		},
+		{
 			title:"饥饿游戏：鸣鸟与蛇之歌",
 			src:"https://www.musestar.cc/film/TheHungerGamesTheBalladofSongbirdsandSnakes",
 			img:"https://s1.imagehub.cc/images/2023/12/11/f4ac2c099f701080fa03689cf972d4a7.jpeg",
