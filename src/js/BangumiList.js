@@ -28,6 +28,15 @@ export const TheBangumiList = ()=>{
 			state:"视频时长: 10:11"
 		},
 		{
+			title:"旺卡",
+			src:"https://www.musestar.cc/film/Wonka",
+			img:"https://s1.imagehub.cc/images/2024/01/22/47f05c7f08e770953e510f5fd4d66907.jpeg",
+			releaseDate:"2023,12,8",
+			classify:"喜剧",
+			country:"美国",
+			state:"影片时长: 1:56:14"
+		},
+		{
 			title:"涉过愤怒的海",
 			src:"https://www.musestar.cc/film/AcrosstheFuriousSea",
 			img:"https://s1.imagehub.cc/images/2024/01/13/cf3a7494cdcfb3eee68c3f0b3478b005.jpeg",
