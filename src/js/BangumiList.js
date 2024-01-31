@@ -109,13 +109,13 @@ export const TheBangumiList = ()=>{
 			state:"总集数：12"
 		},
 		{
-			title:"孤注一掷（TC）",
+			title:"孤注一掷",
 			src:"https://www.musestar.cc/film/NoMoreBets",
 			img:"https://s1.imagehub.cc/images/2023/08/17/NoMoreBets.webp",
 			releaseDate:"2023,8,8",
 			classify:"犯罪",
 			country:"中国",
-			state:"影片时长: 2:05:36"
+			state:"影片时长: 2:09:55"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2023",
