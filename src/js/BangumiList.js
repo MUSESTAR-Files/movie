@@ -2,8 +2,8 @@
 export const TheImgList = ()=> {
 	return [
 		{src: "https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png", href: 'https://www.musestar.cc/teleplay/TheKillingVote'},
-		{src: "https://s1.imagehub.cc/images/2023/08/30/Oppenheimer.webp", href: 'https://www.musestar.cc/teleplay/Loki2'},
-		{src: "https://s1.imagehub.cc/images/2023/08/25/TheKillingVote.webp", href: 'https://www.musestar.cc/film/Oppenheimer'}
+		{src: "https://s1.imagehub.cc/images/2024/02/02/c7f84824f4f786661086ac7390159a37.jpeg", href: 'https://www.musestar.cc/teleplay/Loki2'},
+		{src: "https://s1.imagehub.cc/images/2023/08/25/TheKillingVote.webp", href: 'https://www.musestar.cc/film/EndlessJourney'}
 	];
 }
 //下面是电影列表
@@ -17,6 +17,24 @@ export const TheBangumiList = ()=>{
 			classify:"自定义",
 			country:"搜索",
 			state:"第三方播放源在线播放"
+		},
+		{
+			title:"海王2",
+			src:"https://www.musestar.cc/film/Aquaman2",
+			img:"https://s1.imagehub.cc/images/2024/02/02/2357baa49a9221f62af9fb3a685802c2.jpeg",
+			releaseDate:"2023,12,20",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:04:07"
+		},
+		{
+			title:"三大队",
+			src:"https://www.musestar.cc/film/EndlessJourney",
+			img:"https://s1.imagehub.cc/images/2024/02/02/c7f84824f4f786661086ac7390159a37.jpeg",
+			releaseDate:"2023,12,15",
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 2:12:59"
 		},
 		{
 			title:"2023热度年度总结",
