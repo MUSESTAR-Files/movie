@@ -19,7 +19,7 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"海王2",
+			title:"海王2：失落的王国",
 			src:"https://www.musestar.cc/film/Aquaman2",
 			img:"https://s1.imagehub.cc/images/2024/02/02/2357baa49a9221f62af9fb3a685802c2.jpeg",
 			releaseDate:"2023,12,20",
