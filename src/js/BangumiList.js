@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"年会不能停！",
+			src:"https://www.musestar.cc/film/JohnnyKeepWalking",
+			img:"https://s1.imagehub.cc/images/2024/02/14/a569df061c2f79f77988379669460c21.jpeg",
+			releaseDate:"2023,12,29",
+			classify:"喜剧",
+			country:"中国",
+			state:"影片时长: 1:57:04"
+		},
+		{
 			title:"海王2：失落的王国",
 			src:"https://www.musestar.cc/film/Aquaman2",
 			img:"https://s1.imagehub.cc/images/2024/02/02/2357baa49a9221f62af9fb3a685802c2.jpeg",
