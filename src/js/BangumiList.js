@@ -19,6 +19,33 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"第二十条（TC）",
+			src:"https://www.musestar.cc/film/Article20",
+			img:"https://s1.imagehub.cc/images/2024/02/15/fadac74cbd0dff1825d7e446d46e1fe9.jpeg",
+			releaseDate:"2024,2,10",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 2:23:23"
+		},
+		{
+			title:"飞驰人生2（TC）",
+			src:"https://www.musestar.cc/film/Pegasus2",
+			img:"https://s1.imagehub.cc/images/2024/02/15/00afacb70f62c5edbcefb9da52f6d553.jpeg",
+			releaseDate:"2024,2,10",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 1:56:32"
+		},
+		{
+			title:"热辣滚烫（TC）",
+			src:"https://www.musestar.cc/film/YOLO",
+			img:"https://s1.imagehub.cc/images/2024/02/15/7b16af704cd7c7e3f8f704230845510e.jpeg",
+			releaseDate:"2024,2,10",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 2:09:27"
+		},
+		{
 			title:"年会不能停！",
 			src:"https://www.musestar.cc/film/JohnnyKeepWalking",
 			img:"https://s1.imagehub.cc/images/2024/02/14/a569df061c2f79f77988379669460c21.jpeg",
