@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"猎冰",
+			src:"https://www.musestar.cc/teleplay/liebing",
+			img:"https://s1.imagehub.cc/images/2024/02/21/a2428d3a86c169fcfc529d0f97e492d1.jpeg",
+			releaseDate:"2024,2,21",
+			classify:"犯罪",
+			country:"中国",
+			state:"(更新中)总话数: 18"
+		},
+		{
 			title:"第二十条（TC）",
 			src:"https://www.musestar.cc/film/Article20",
 			img:"https://s1.imagehub.cc/images/2024/02/15/fadac74cbd0dff1825d7e446d46e1fe9.jpeg",
