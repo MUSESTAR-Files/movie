@@ -28,10 +28,8 @@
     <div class="mainBox">
         <a href="https://www.musestar.cc/" class="webMap"><span class="wiText">&copy; 2024 MUSESTAR</span></a>
         <a href="http://ninnana.top/" class="webMap"><span class="wiText">&copy; 2024 Ninnana</span></a>
-        <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span class="wiText">萌ICP备 20226956 号</span></a>
-        <a href="https://www.musestar.cc/sitemap.xml" class="webMap"><span>网站地图</span></a>
-        <span class="grText">未经本站授权禁止转载、摘编、复制或建立镜像。</span>
-        <i class="time">本网站已运行{sense}</i>
+        <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span class="wiText">萌ICP备20226956号</span></a>
+        <i class="time">本站已坚持 {sense}</i>
     </div>
 </main>
 
