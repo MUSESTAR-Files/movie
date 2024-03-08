@@ -19,6 +19,24 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"沙丘2（TC）",
+			src:"https://www.musestar.cc/film/Dune2",
+			img:"https://s1.imagehub.cc/images/2024/03/08/5c2d89b452e6219ac32d028e0e0fcaa5.jpeg",
+			releaseDate:"2024,3,8",
+			classify:"剧情",
+			country:"美国/加拿大",
+			state:"影片时长: 2:41:01"
+		},
+		{
+			title:"周处除三害",
+			src:"https://www.musestar.cc/film/zccsh",
+			img:"https://s1.imagehub.cc/images/2024/03/08/77c45a12233fb2ee4a9e128dfe733fe7.jpeg",
+			releaseDate:"2024,3,1",
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 2:14:00"
+		},
+		{
 			title:"第二十条（TC）",
 			src:"https://www.musestar.cc/film/Article20",
 			img:"https://s1.imagehub.cc/images/2024/02/15/fadac74cbd0dff1825d7e446d46e1fe9.jpeg",
