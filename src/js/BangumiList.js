@@ -19,6 +19,16 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"三体（Netflix）",
+			src:"https://www.musestar.cc/teleplay/3BodyProblem",
+			img:"https://s1.imagehub.cc/images/2024/03/22/2272790f50ed1efadd6bd8bc94ff8c03.jpeg",
+			releaseDate:"2024,3,21",
+			classify:"科幻",
+			country:"美国",
+			state:"总集数: 8"
+		},
+
+		{
 			title:"沙丘2（TC）",
 			src:"https://www.musestar.cc/film/Dune2",
 			img:"https://s1.imagehub.cc/images/2024/03/08/5c2d89b452e6219ac32d028e0e0fcaa5.jpeg",
@@ -142,7 +152,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,10,5",
 			classify:"科幻",
 			country:"美国",
-			state:"总集数：6"
+			state:"总集数: 6"
 		},
 		{
 			title:"电锯惊魂10",
@@ -178,7 +188,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,8,10",
 			classify:"剧情",
 			country:"韩国",
-			state:"总集数：12"
+			state:"总集数: 12"
 		},
 		{
 			title:"孤注一掷",
@@ -196,7 +206,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,7,22",
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长：3:25:18"
+			state:"全程时长: 3:25:18"
 		},
 		{
 			title:"超能一家人",
@@ -331,7 +341,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,1,15",
 			classify:"科幻",
 			country:"中国",
-			state:"总集数：30"
+			state:"总集数: 30"
 		},
 		{
 			title:"狂飙",
@@ -340,7 +350,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,1,14",
 			classify:"犯罪",
 			country:"中国",
-			state:"总集数：39"
+			state:"总集数: 39"
 		},
 		{
 			title:"2022的年度影视混剪",
