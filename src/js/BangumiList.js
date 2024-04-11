@@ -29,7 +29,7 @@ export const TheBangumiList = ()=>{
 		},
 
 		{
-			title:"沙丘2（TC）",
+			title:"沙丘2",
 			src:"https://www.musestar.cc/film/Dune2",
 			img:"https://s1.imagehub.cc/images/2024/03/08/5c2d89b452e6219ac32d028e0e0fcaa5.jpeg",
 			releaseDate:"2024,3,8",
