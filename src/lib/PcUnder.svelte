@@ -30,7 +30,7 @@
         <a href="https://www.musestar.cc/" class="webMap"><span>&copy; 2024 LycoriXradiaTa</span></a>
         <a href="http://ninnana.top/" class="webMap"><span>&copy; 2024 Ninnana</span></a>
         <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span>萌ICP备20226956号</span></a>
-        <i class="time">本站已坚持 {sense}</i>
+        <i class="time">本站已运行 {sense}</i>
     </div>
 </main>
 
