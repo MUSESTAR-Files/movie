@@ -35,7 +35,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,3,8",
 			classify:"剧情",
 			country:"美国/加拿大",
-			state:"影片时长: 2:41:01"
+			state:"影片时长: 2:45:47"
 		},
 		{
 			title:"周处除三害",
@@ -65,13 +65,13 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:56:32"
 		},
 		{
-			title:"热辣滚烫（TC）",
+			title:"热辣滚烫",
 			src:"https://www.musestar.cc/film/YOLO",
 			img:"https://s1.imagehub.cc/images/2024/02/15/7b16af704cd7c7e3f8f704230845510e.jpeg",
 			releaseDate:"2024,2,10",
 			classify:"剧情",
 			country:"中国",
-			state:"影片时长: 2:09:27"
+			state:"影片时长: 2:09:31"
 		},
 		{
 			title:"年会不能停！",
