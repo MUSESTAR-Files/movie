@@ -47,7 +47,7 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:14:00"
 		},
 		{
-			title:"第二十条（TC）",
+			title:"第二十条",
 			src:"https://www.musestar.cc/film/Article20",
 			img:"https://s1.imagehub.cc/images/2024/02/15/fadac74cbd0dff1825d7e446d46e1fe9.jpeg",
 			releaseDate:"2024,2,10",
