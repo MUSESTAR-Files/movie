@@ -56,7 +56,7 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:23:23"
 		},
 		{
-			title:"飞驰人生2（TC）",
+			title:"飞驰人生2",
 			src:"https://www.musestar.cc/film/Pegasus2",
 			img:"https://s1.imagehub.cc/images/2024/02/15/00afacb70f62c5edbcefb9da52f6d553.jpeg",
 			releaseDate:"2024,2,10",
