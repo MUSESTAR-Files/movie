@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"BILIBILI MACRO LINK 2024",
+			src:"https://www.musestar.cc/teleplay/BML2024/01",
+			img:"https://s1.imagehub.cc/images/2024/05/17/4b23e8431d79fb013ca982e469d0d097.png",
+			releaseDate:"2024,7,13",
+			classify:"演唱会",
+			country:"中国",
+			state:"BILIBILI MACRO LINK 2024"
+		},
+		{
 			title:"三体（Netflix）",
 			src:"https://www.musestar.cc/teleplay/3BodyProblem",
 			img:"https://s1.imagehub.cc/images/2024/03/22/2272790f50ed1efadd6bd8bc94ff8c03.jpeg",
@@ -27,7 +36,6 @@ export const TheBangumiList = ()=>{
 			country:"美国",
 			state:"总集数: 8"
 		},
-
 		{
 			title:"沙丘2",
 			src:"https://www.musestar.cc/film/Dune2",
@@ -206,7 +214,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2023,7,22",
 			classify:"演唱会",
 			country:"中国",
-			state:"全程时长: 3:25:18"
+			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
 			title:"超能一家人",
