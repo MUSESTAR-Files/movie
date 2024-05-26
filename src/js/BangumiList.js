@@ -73,6 +73,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:56:32"
 		},
 		{
+			title:"我们一起摇太阳",
+			src:"https://www.musestar.cc/film/VivaLaVida",
+			img:"https://s1.imagehub.cc/images/2024/05/26/80ab593da3c62dd3dff35791e8865fd7.webp",
+			releaseDate:"2024,2,10",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 2:09:53"
+		},
+		{
 			title:"热辣滚烫",
 			src:"https://www.musestar.cc/film/YOLO",
 			img:"https://s1.imagehub.cc/images/2024/02/15/7b16af704cd7c7e3f8f704230845510e.jpeg",
