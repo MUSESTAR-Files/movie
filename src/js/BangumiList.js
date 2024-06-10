@@ -28,6 +28,24 @@ export const TheBangumiList = ()=>{
 			state:"BILIBILI MACRO LINK 2024"
 		},
 		{
+			title:"末路狂花钱",
+			src:"https://www.musestar.cc/film/TheLastFrenzy",
+			img:"https://s1.imagehub.cc/images/2024/06/10/2c4e4e0194eb115462bbc888733410a5.jpeg",
+			releaseDate:"2024,5,1",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 1:46:31"
+		},
+		{
+			title:"哥斯拉大战金刚2：帝国崛起",
+			src:"https://www.musestar.cc/film/GodzillavsKong2",
+			img:"https://s1.imagehub.cc/images/2024/06/10/1e15fb1ecdb31003ac7bb29e205d4207.webp",
+			releaseDate:"2024,3,29",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:54:41"
+		},
+		{
 			title:"三体（Netflix）",
 			src:"https://www.musestar.cc/teleplay/3BodyProblem",
 			img:"https://s1.imagehub.cc/images/2024/03/22/2272790f50ed1efadd6bd8bc94ff8c03.jpeg",
