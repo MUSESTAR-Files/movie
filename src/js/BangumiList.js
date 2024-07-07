@@ -29,7 +29,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"疯狂的麦克斯：狂暴女神",
-			src:"https://www.musestar.cc/film/TheLastFrenzy",
+			src:"https://www.musestar.cc/film/Furiosa",
 			img:"https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg",
 			releaseDate:"2024,6,7",
 			classify:"动作",
