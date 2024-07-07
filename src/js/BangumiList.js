@@ -1,9 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png", href: 'https://www.musestar.cc/teleplay/TheKillingVote'},
-		{src: "https://s1.imagehub.cc/images/2024/02/02/c7f84824f4f786661086ac7390159a37.jpeg", href: 'https://www.musestar.cc/teleplay/Loki2'},
-		{src: "https://s1.imagehub.cc/images/2023/08/25/TheKillingVote.webp", href: 'https://www.musestar.cc/film/EndlessJourney'}
+		{src: "https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg", href: 'https://www.musestar.cc/teleplay/BML2024/01'},
+		{src: "https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg", href: 'https://www.musestar.cc/film/TheLastFrenzy'},
+		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: 'https://www.musestar.cc/film/Challenge'}
 	];
 }
 //下面是电影列表
@@ -26,6 +26,15 @@ export const TheBangumiList = ()=>{
 			classify:"演唱会",
 			country:"中国",
 			state:"BILIBILI MACRO LINK 2024"
+		},
+		{
+			title:"疯狂的麦克斯：狂暴女神",
+			src:"https://www.musestar.cc/film/TheLastFrenzy",
+			img:"https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg",
+			releaseDate:"2024,6,7",
+			classify:"动作",
+			country:"美国",
+			state:"影片时长: 2:28:11"
 		},
 		{
 			title:"末路狂花钱",
@@ -53,6 +62,15 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"美国",
 			state:"总集数: 8"
+		},
+		{
+			title:"挑战",
+			src:"https://www.musestar.cc/film/Challenge",
+			img:"https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg",
+			releaseDate:"2024,5,1",
+			classify:"剧情",
+			country:"俄罗斯",
+			state:"影片时长: 1:59:16"
 		},
 		{
 			title:"沙丘2",
@@ -305,15 +323,6 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"美国",
 			state:"影片时长: 2:30:02"
-		},
-		{
-			title:"三体2：黑暗森林（自制动画）",
-			src:"https://www.musestar.cc/teleplay/3body2zzdh",
-			img:"https://s1.imagehub.cc/images/2024/01/12/949a4fa1c27e905d49f16858aedb143d.jpeg",
-			releaseDate:"2023,4,15",
-			classify:"科幻",
-			country:"中国",
-			state:"(更新中)总话数: 未知"
 		},
 		{
 			title:"俄罗斯方块",
