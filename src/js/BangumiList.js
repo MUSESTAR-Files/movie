@@ -24,8 +24,17 @@ export const TheBangumiList = ()=>{
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
 			releaseDate:"2024,7,13",
 			classify:"演唱会",
-			country:"中国",
+			country:"中国/日本",
 			state:"BILIBILI MACRO LINK 2024"
+		},
+		{
+			title:"TUBEOUT! 2024",
+			src:"https://www.musestar.cc/teleplay/TUBEOUT2024",
+			img:"https://s1.imagehub.cc/images/2024/07/28/65c2270b7b17a06eadf72cc5a5c9255e.jpeg",
+			releaseDate:"2024,7,12",
+			classify:"演唱会",
+			country:"中国/日本",
+			state:"TUBEOUT! 2024"
 		},
 		{
 			title:"疯狂的麦克斯：狂暴女神",
@@ -258,7 +267,7 @@ export const TheBangumiList = ()=>{
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:"2023,7,22",
 			classify:"演唱会",
-			country:"中国",
+			country:"中国/日本",
 			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
