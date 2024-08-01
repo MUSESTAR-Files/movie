@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"死侍与金刚狼",
+			src:"https://www.musestar.cc/film/Deadpool3",
+			img:"https://s1.imagehub.cc/images/2024/08/01/66213bc0cf7da1118e8a07b0ea2c84f1.png",
+			releaseDate:"2024,7,26",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:08:37"
+		},
+		{
 			title:"BILIBILI MACRO LINK 2024",
 			src:"https://www.musestar.cc/teleplay/BML2024/00",
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
