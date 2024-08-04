@@ -26,7 +26,7 @@
 
 <main>
     <div class="mainBox">
-        <a href="https://www.musestar.cc/" class="webMap"><span class="wiText">&copy; 2024 MUSESTAR</span></a>
+        <a href="/" class="webMap"><span class="wiText">&copy; 2024 MUSESTAR</span></a>
         <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span class="wiText">萌ICP备20226956号</span></a>
         <i class="time">本站已运行 {sense}</i>
     </div>

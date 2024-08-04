@@ -6,15 +6,15 @@
 <svelte:window on:pointerup={()=>isTouch = -1}/>
 <main>
     <div class="bottomBar">
-        <a class="iconBox" class:myActive={isTouch===0} on:pointerdown={()=>isTouch=0} href="https://www.musestar.cc/">
-            <img src="https://www.musestar.cc/favicon.ico" alt="主页" class="defImgIcon">
+        <a class="iconBox" class:myActive={isTouch===0} on:pointerdown={()=>isTouch=0} href="/">
+            <img src="/favicon.ico" alt="主页" class="defImgIcon">
             <p class="iconName">首页</p>
         </a>
-        <a class="iconBox" class:myActive={isTouch===1} on:pointerdown={()=>isTouch=1} href="https://www.musestar.cc/animation">
+        <a class="iconBox" class:myActive={isTouch===1} on:pointerdown={()=>isTouch=1} href="/animation">
             <span class="iconfont defIcon">&#xfc2a;</span>
             <p class="iconName">动漫</p>
         </a>
-        <a class="iconBox hL" class:myActive={isTouch===2} on:pointerdown={()=>isTouch=2} href="https://www.musestar.cc/movie">
+        <a class="iconBox hL" class:myActive={isTouch===2} on:pointerdown={()=>isTouch=2} href="/movie">
             <span class="iconfont defIcon">&#xfc48;</span>
             <p class="iconName">影视</p>
         </a>
@@ -22,7 +22,7 @@
             <span class="iconfont defIcon">&#xfc3a;</span>
             <p class="iconName">搜索</p>
         </a>
-        <a class="iconBox" class:myActive={isTouch===4} on:pointerdown={()=>isTouch=4} href="https://www.musestar.cc/musestar">
+        <a class="iconBox" class:myActive={isTouch===4} on:pointerdown={()=>isTouch=4} href="/musestar">
             <span class="iconfont defIcon">&#xfc6b;</span>
             <p class="iconName">官方</p>
         </a>

@@ -5,20 +5,20 @@
 <main>
 
     <div class="THeTopBar" class:TheTopBarPC={!isMobile} class:TheTopBarMo={isMobile}>
-        <a class="oneBlock" href="https://www.musestar.cc/">
-            <img src=https://www.musestar.cc/favicon.ico alt="Musestar" class="msIcon">
+        <a class="oneBlock" href="/">
+            <img src=/favicon.ico alt="Musestar" class="msIcon">
         </a>
         <div class="inTopA inTopFirst hgLtBox">
-            <a href="https://www.musestar.cc/movie" class="hgLt">缪斯星影视</a>
+            <a href="/movie" class="hgLt">缪斯星影视</a>
         </div>
         <div class="inTopA">
-            <a href="https://www.musestar.cc/animation">缪斯星动漫</a>
+            <a href="/animation">缪斯星动漫</a>
         </div>
         <div class="inTopA">
             <a href="http://search.musestar.cc/">缪斯星搜索</a>
         </div>
         <div class="inTopA inTopLast">
-            <a href="https://www.musestar.cc/musestar">缪斯星官方</a>
+            <a href="/musestar">缪斯星官方</a>
         </div>
 
     </div>
