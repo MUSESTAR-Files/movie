@@ -1,7 +1,7 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg", href: '/https://www.musestar.cc/teleplay/BML2024/00'},
+		{src: "https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg", href: '/teleplay/BML2024/00'},
 		{src: "https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg", href: '/film/TheLastFrenzy'},
 		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: '/film/Challenge'}
 	];
@@ -29,7 +29,7 @@ export const TheBangumiList = ()=>{
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
-			src:"/https://www.musestar.cc/teleplay/BML2024/00",
+			src:"/teleplay/BML2024/00",
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
 			releaseDate:"2024,7,13",
 			classify:"演唱会",
