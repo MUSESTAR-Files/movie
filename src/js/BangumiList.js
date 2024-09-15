@@ -19,21 +19,30 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"冰火歌会漫游季2024",
+			src:"/teleplay/BHGH2024",
+			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
+			releaseDate:"2024,9,15",
+			classify:"虚拟演唱会",
+			country:"中国",
+			state:"冰火歌会漫游季2024"
+		},
+		{
 			title:"死侍与金刚狼",
 			src:"/film/Deadpool3",
 			img:"https://s1.imagehub.cc/images/2024/08/01/66213bc0cf7da1118e8a07b0ea2c84f1.png",
 			releaseDate:"2024,7,26",
 			classify:"科幻",
 			country:"美国",
-			state:"影片时长: 2:08:37"
+			state:"影片时长: 2:08:38"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
 			src:"/teleplay/BML2024/00",
 			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
 			releaseDate:"2024,7,13",
-			classify:"演唱会",
-			country:"中国/日本",
+			classify:"综合演唱会",
+			country:"中国",
 			state:"BILIBILI MACRO LINK 2024"
 		},
 		{
@@ -41,8 +50,8 @@ export const TheBangumiList = ()=>{
 			src:"/teleplay/TUBEOUT2024",
 			img:"https://s1.imagehub.cc/images/2024/07/28/65c2270b7b17a06eadf72cc5a5c9255e.jpeg",
 			releaseDate:"2024,7,12",
-			classify:"演唱会",
-			country:"中国/日本",
+			classify:"虚拟演唱会",
+			country:"中国",
 			state:"TUBEOUT! 2024"
 		},
 		{
