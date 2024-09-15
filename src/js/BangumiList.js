@@ -19,13 +19,13 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"冰火歌会漫游季2024",
+			title:"冰火歌会2024漫游季",
 			src:"/teleplay/BHGH2024",
 			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
 			releaseDate:"2024,9,15",
 			classify:"虚拟演唱会",
 			country:"中国",
-			state:"冰火歌会漫游季2024"
+			state:"冰火歌会2024漫游季"
 		},
 		{
 			title:"死侍与金刚狼",
