@@ -55,51 +55,6 @@ export const TheBangumiList = ()=>{
 			state:"TUBEOUT! 2024"
 		},
 		{
-			title:"疯狂的麦克斯：狂暴女神",
-			src:"/film/Furiosa",
-			img:"https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg",
-			releaseDate:"2024,6,7",
-			classify:"动作",
-			country:"美国",
-			state:"影片时长: 2:28:11"
-		},
-		{
-			title:"末路狂花钱",
-			src:"/film/TheLastFrenzy",
-			img:"https://s1.imagehub.cc/images/2024/06/10/2c4e4e0194eb115462bbc888733410a5.jpeg",
-			releaseDate:"2024,5,1",
-			classify:"剧情",
-			country:"中国",
-			state:"影片时长: 1:46:31"
-		},
-		{
-			title:"哥斯拉大战金刚2：帝国崛起",
-			src:"/film/GodzillavsKong2",
-			img:"https://s1.imagehub.cc/images/2024/06/10/1e15fb1ecdb31003ac7bb29e205d4207.webp",
-			releaseDate:"2024,3,29",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 1:54:41"
-		},
-		{
-			title:"三体（Netflix）",
-			src:"/teleplay/3BodyProblem",
-			img:"https://s1.imagehub.cc/images/2024/03/22/2272790f50ed1efadd6bd8bc94ff8c03.jpeg",
-			releaseDate:"2024,3,21",
-			classify:"科幻",
-			country:"美国",
-			state:"总集数: 8"
-		},
-		{
-			title:"挑战",
-			src:"/film/Challenge",
-			img:"https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg",
-			releaseDate:"2024,5,1",
-			classify:"剧情",
-			country:"俄罗斯",
-			state:"影片时长: 1:59:16"
-		},
-		{
 			title:"沙丘2",
 			src:"/film/Dune2",
 			img:"https://s1.imagehub.cc/images/2024/03/08/5c2d89b452e6219ac32d028e0e0fcaa5.jpeg",
@@ -145,15 +100,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:09:53"
 		},
 		{
-			title:"热辣滚烫",
-			src:"/film/YOLO",
-			img:"https://s1.imagehub.cc/images/2024/02/15/7b16af704cd7c7e3f8f704230845510e.jpeg",
-			releaseDate:"2024,2,10",
-			classify:"剧情",
-			country:"中国",
-			state:"影片时长: 2:09:31"
-		},
-		{
 			title:"年会不能停！",
 			src:"/film/JohnnyKeepWalking",
 			img:"https://s1.imagehub.cc/images/2024/02/14/a569df061c2f79f77988379669460c21.jpeg",
@@ -161,15 +107,6 @@ export const TheBangumiList = ()=>{
 			classify:"喜剧",
 			country:"中国",
 			state:"影片时长: 1:57:04"
-		},
-		{
-			title:"海王2：失落的王国",
-			src:"/film/Aquaman2",
-			img:"https://s1.imagehub.cc/images/2024/02/02/2357baa49a9221f62af9fb3a685802c2.jpeg",
-			releaseDate:"2023,12,20",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 2:04:07"
 		},
 		{
 			title:"三大队",
@@ -188,15 +125,6 @@ export const TheBangumiList = ()=>{
 			classify:"套娃",
 			country:"中国",
 			state:"视频时长: 10:11"
-		},
-		{
-			title:"旺卡",
-			src:"/film/Wonka",
-			img:"https://s1.imagehub.cc/images/2024/01/22/47f05c7f08e770953e510f5fd4d66907.jpeg",
-			releaseDate:"2023,12,8",
-			classify:"喜剧",
-			country:"美国",
-			state:"影片时长: 1:56:14"
 		},
 		{
 			title:"涉过愤怒的海",
@@ -284,18 +212,9 @@ export const TheBangumiList = ()=>{
 			src:"/teleplay/BML2023/01",
 			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
 			releaseDate:"2023,7,22",
-			classify:"演唱会",
-			country:"中国/日本",
-			state:"BILIBILI MACRO LINK 2023"
-		},
-		{
-			title:"超能一家人",
-			src:"/film/WonderFamily",
-			img:"https://s1.imagehub.cc/images/2023/08/18/WonderFamily.webp",
-			releaseDate:"2023,7,21",
-			classify:"喜剧",
+			classify:"综合演唱会",
 			country:"中国",
-			state:"影片时长: 1:52:15"
+			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
 			title:"消失的她",
@@ -361,15 +280,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:57:44"
 		},
 		{
-			title:"雷霆沙赞！众神之怒",
-			src:"/film/Shazam2",
-			img:"https://s1.imagehub.cc/images/2023/04/15/44323817b449dd0dc8fd6d2c80ca72d3.webp",
-			releaseDate:"2023,3,17",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 2:10:13"
-		},
-		{
 			title:"保你平安",
 			src:"/film/PostTruth",
 			img:"https://s1.imagehub.cc/images/2023/05/14/PostTruth.webp",
@@ -432,15 +342,6 @@ export const TheBangumiList = ()=>{
 			country:"中国",
 			state:"视频时长: 4:52"
 		},
-        {
-            title:"穿靴子的猫2",
-            src:"/film/PussinBoots2",
-            img:"https://s1.imagehub.cc/images/2023/01/13/d50eba80d5eeb44a694965e8c8ed2df9.webp",
-            releaseDate:"2022,12,23",
-			classify:"动画",
-            country:"美国",
-            state:"影片时长: 1:42:23"
-        },
 		{
 			title:"阿凡达2：水之道",
 			src:"/film/Avatar2",
