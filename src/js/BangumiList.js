@@ -253,33 +253,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:53:22"
 		},
 		{
-			title:"三体",
-			src:"/teleplay/3body",
-			img:"https://s1.imagehub.cc/images/2023/01/16/5e32727ab66df0680b3a2ce0a40375c8.webp",
-			releaseDate:"2023,1,15",
-			classify:"科幻",
-			country:"中国",
-			state:"总集数: 30"
-		},
-		{
-			title:"狂飙",
-			src:"/teleplay/PunchOut",
-			img:"https://s1.imagehub.cc/images/2023/02/01/b1454e2a4abca9d53dafd97baf3b912c.webp",
-			releaseDate:"2023,1,14",
-			classify:"犯罪",
-			country:"中国",
-			state:"总集数: 39"
-		},
-		{
-			title:"2022的年度影视混剪",
-			src:"/film/2022",
-			img:"https://s1.imagehub.cc/images/2023/01/10/0a9315c5321ccc4ad447d388011d8291.jpeg",
-			releaseDate:"2023,1,1",
-			classify:"混剪",
-			country:"中国",
-			state:"视频时长: 4:52"
-		},
-		{
 			title:"阿凡达2：水之道",
 			src:"/film/Avatar2",
 			img:"https://s1.imagehub.cc/images/2022/12/16/852ece4d2e2d5d3347f0027b2528f0e6.webp",
