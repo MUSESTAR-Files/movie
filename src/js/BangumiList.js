@@ -136,24 +136,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:23:55"
 		},
 		{
-			title:"饥饿游戏：鸣鸟与蛇之歌",
-			src:"/film/TheHungerGamesTheBalladofSongbirdsandSnakes",
-			img:"https://s1.imagehub.cc/images/2023/12/11/f4ac2c099f701080fa03689cf972d4a7.jpeg",
-			releaseDate:"2023,11,17",
-			classify:"动作",
-			country:"美国",
-			state:"影片时长: 2:28:50"
-		},
-		{
-			title:"惊奇队长2",
-			src:"/film/TheMarvels2",
-			img:"https://s1.imagehub.cc/images/2023/12/11/3e8f473c4ae5dae761eeb7f6d6708acb.png",
-			releaseDate:"2023,11,10",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 1:37:38"
-		},
-		{
 			title:"洛基 第二季",
 			src:"/teleplay/Loki2",
 			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
@@ -161,15 +143,6 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"美国",
 			state:"总集数: 6"
-		},
-		{
-			title:"电锯惊魂10",
-			src:"/film/SawX",
-			img:"https://s1.imagehub.cc/images/2023/10/21/SawX.webp",
-			releaseDate:"2023,9,29",
-			classify:"恐怖",
-			country:"美国",
-			state:"影片时长: 1:58:23"
 		},
 		{
 			title:"坚如磐石",
@@ -235,24 +208,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:07:19"
 		},
 		{
-			title:"变形金刚7：超能勇士崛起",
-			src:"/film/Transformers7",
-			img:"https://s1.imagehub.cc/images/2023/06/12/Transformers7.webp",
-			releaseDate:"2023,6,9",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 2:07:19"
-		},
-		{
-			title:"蜘蛛侠：纵横宇宙",
-			src:"/film/Spider-ManAcrosstheSpider-VersePartOne",
-			img:"https://s1.imagehub.cc/images/2023/06/12/Spider-ManAcrosstheSpider-VersePartOne.webp",
-			releaseDate:"2023,6,2",
-			classify:"动画",
-			country:"美国",
-			state:"影片时长: 2:20:05"
-		},
-		{
 			title:"速度与激情10",
 			src:"/film/Fast10",
 			img:"https://s1.imagehub.cc/images/2023/06/12/Fast10.webp",
@@ -289,15 +244,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:51:24"
 		},
 		{
-			title:"蚁人与黄蜂女：量子狂潮",
-			src:"/film/AntMan3",
-			img:"https://s1.imagehub.cc/images/2023/02/19/9e711338d182eaa54dc4f570e6b5eb1f.webp",
-			releaseDate:"2023,2,17",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 2:04:34"
-		},
-		{
 			title:"流浪地球2",
 			src:"/film/TheWanderingEarth2",
 			img:"https://s1.imagehub.cc/images/2023/01/02/49348cf0d5976eb8567f845bb616ae38.webp",
@@ -305,15 +251,6 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"中国",
 			state:"影片时长: 2:53:22"
-		},
-		{
-			title:"满江红",
-			src:"/film/FullRiverRed",
-			img:"https://s1.imagehub.cc/images/2023/01/31/0e81148845c2e9220af6630f3bc3bec0.webp",
-			releaseDate:"2023,1,22",
-			classify:"悬疑",
-			country:"中国",
-			state:"影片时长: 2:27:23"
 		},
 		{
 			title:"三体",
@@ -350,15 +287,6 @@ export const TheBangumiList = ()=>{
 			classify:"科幻",
 			country:"美国",
 			state:"影片时长: 3:04:31"
-		},
-		{
-			title:"黑豹2：瓦坎达万岁",
-			src:"/film/BlackPanther2",
-			img:"https://s1.imagehub.cc/images/2022/12/04/b03f08d2219c8140dd2cc0e198579a57.webp",
-			releaseDate:"2022,11,11",
-			classify:"科幻",
-			country:"美国",
-			state:"影片时长: 2:34:12"
 		},
 	]
 }
