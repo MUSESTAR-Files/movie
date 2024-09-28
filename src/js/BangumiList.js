@@ -19,6 +19,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri",
+			src:"/teleplay/Sayuri",
+			img:"https://s1.imagehub.cc/images/2024/09/28/1a0219d4f91f6ed7611916405312da72.jpg",
+			releaseDate:"2024,9,27",
+			classify:"晚安🕯",
+			country:"日本",
+			state:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri"
+		},
+		{
 			title:"冰火歌会2024漫游季",
 			src:"/teleplay/BHGH2024",
 			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
