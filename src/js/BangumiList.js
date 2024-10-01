@@ -1,7 +1,7 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg", href: '/film/Successor'},
+		{src: "https://s1.imagehub.cc/images/2024/10/01/bbdf22953d7871c6e9e87908fa608651.jpg", href: '/film/Successor'},
 		{src: "https://s1.imagehub.cc/images/2024/08/01/66213bc0cf7da1118e8a07b0ea2c84f1.png", href: '/film/Deadpool3'}
 	];
 }
