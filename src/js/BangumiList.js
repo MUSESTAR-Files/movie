@@ -49,9 +49,9 @@ export const TheBangumiList = ()=>{
 			src:"/film/Successor",
 			img:"https://s1.imagehub.cc/images/2024/10/01/bbdf22953d7871c6e9e87908fa608651.jpg",
 			releaseDate:"2024,7,16",
-			classify:"科幻",
+			classify:"喜剧",
 			country:"中国",
-			state:"影片时长: 2:08:38"
+			state:"影片时长: 2:13:25"
 		},
 		{
 			title:"BILIBILI MACRO LINK 2024",
