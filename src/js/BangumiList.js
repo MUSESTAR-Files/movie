@@ -1,9 +1,8 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/07/07/7943e993fcaec99031f88c7f7bc66e78.jpeg", href: '/teleplay/BML2024/00'},
-		{src: "https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg", href: '/film/TheLastFrenzy'},
-		{src: "https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg", href: '/film/Challenge'}
+		{src: "https://s1.imagehub.cc/images/2024/07/07/e378c147b19a4306ebab67b5c67fe456.jpeg", href: '/film/Successor'},
+		{src: "https://s1.imagehub.cc/images/2024/08/01/66213bc0cf7da1118e8a07b0ea2c84f1.png", href: '/film/Deadpool3'}
 	];
 }
 //下面是电影列表
@@ -43,6 +42,15 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,7,26",
 			classify:"科幻",
 			country:"美国",
+			state:"影片时长: 2:08:38"
+		},
+		{
+			title:"抓娃娃",
+			src:"/film/Successor",
+			img:"https://s1.imagehub.cc/images/2024/10/01/bbdf22953d7871c6e9e87908fa608651.jpg",
+			releaseDate:"2024,7,16",
+			classify:"科幻",
+			country:"中国",
 			state:"影片时长: 2:08:38"
 		},
 		{
