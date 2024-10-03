@@ -28,7 +28,7 @@
 	});
 </script>
 <main>
-    <img src="{isMobile?'https://t.alcy.cc/pc/':'https://t.alcy.cc/pc/'}" class="backG"
+    <img src="{isMobile?'https://api.anosu.top/api/?sort=all':'https://api.anosu.top/api/?sort=all'}" class="backG"
          alt="back" loading="eager" on:loadstart={()=>{isBgLoaded = false}} on:load={()=>{isBgLoaded = true}} class:noDisplay={!isBgLoaded}>
     {#if isMobile}
         <HandoffButton on:theChn={(e)=>{theS=e.detail;}}/>
