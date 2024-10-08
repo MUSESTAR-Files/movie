@@ -18,6 +18,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"洛天依「歌行宇宙·无限共鸣」",
+			src:"/teleplay/LTYWXGM2024",
+			img:"https://s1.imagehub.cc/images/2024/10/08/009311278d9e91751280590d6ce037cb.jpg",
+			releaseDate:"2024,10,5",
+			classify:"全息演唱会",
+			country:"中国",
+			state:"洛天依「歌行宇宙·无限共鸣」"
+		},
+		{
 			title:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri",
 			src:"/teleplay/Sayuri",
 			img:"https://s1.imagehub.cc/images/2024/09/28/1a0219d4f91f6ed7611916405312da72.jpg",
