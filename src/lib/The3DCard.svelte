@@ -101,7 +101,6 @@
         overflow: hidden;
         height: 280px;
         width: 190px;
-        background-color: deepskyblue;
         border-radius: 10px;
         background-repeat: no-repeat;
         background-size: cover;
