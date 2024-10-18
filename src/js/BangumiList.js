@@ -27,15 +27,6 @@ export const TheBangumiList = ()=>{
 			state:"洛天依「歌行宇宙·无限共鸣」"
 		},
 		{
-			title:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri",
-			src:"/teleplay/Sayuri",
-			img:"https://s1.imagehub.cc/images/2024/09/28/1a0219d4f91f6ed7611916405312da72.jpg",
-			releaseDate:"2024,9,27",
-			classify:"晚安🕯",
-			country:"日本",
-			state:"仅以此视频悼念这位喜欢吉他的酸欠少女Sayuri"
-		},
-		{
 			title:"冰火歌会2024漫游季",
 			src:"/teleplay/BHGH2024",
 			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
@@ -43,6 +34,15 @@ export const TheBangumiList = ()=>{
 			classify:"虚拟演唱会",
 			country:"中国",
 			state:"冰火歌会2024漫游季"
+		},
+		{
+			title:"异形：夺命舰",
+			src:"/film/Alien",
+			img:"https://s1.imagehub.cc/images/2024/10/18/14263a888127c08369e650be307d5fd3.jpg",
+			releaseDate:"2024,8,16",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:59:45"
 		},
 		{
 			title:"死侍与金刚狼",
