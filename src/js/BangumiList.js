@@ -18,24 +18,6 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
-			title:"洛天依「歌行宇宙·无限共鸣」",
-			src:"/teleplay/LTYWXGM2024",
-			img:"https://s1.imagehub.cc/images/2024/10/08/009311278d9e91751280590d6ce037cb.jpg",
-			releaseDate:"2024,10,5",
-			classify:"全息演唱会",
-			country:"中国",
-			state:"洛天依「歌行宇宙·无限共鸣」"
-		},
-		{
-			title:"冰火歌会2024漫游季",
-			src:"/teleplay/BHGH2024",
-			img:"https://s1.imagehub.cc/images/2024/09/15/fc0d5b23e477d9973dbc3898181baccf.png",
-			releaseDate:"2024,9,15",
-			classify:"虚拟演唱会",
-			country:"中国",
-			state:"冰火歌会2024漫游季"
-		},
-		{
 			title:"异形：夺命舰",
 			src:"/film/Alien",
 			img:"https://s1.imagehub.cc/images/2024/10/18/14263a888127c08369e650be307d5fd3.jpg",
@@ -61,24 +43,6 @@ export const TheBangumiList = ()=>{
 			classify:"喜剧",
 			country:"中国",
 			state:"影片时长: 2:13:25"
-		},
-		{
-			title:"BILIBILI MACRO LINK 2024",
-			src:"/teleplay/BML2024/100",
-			img:"https://s1.imagehub.cc/images/2024/06/15/566f287884202f982c16618804792d65.jpeg",
-			releaseDate:"2024,7,13",
-			classify:"综合演唱会",
-			country:"中国",
-			state:"BILIBILI MACRO LINK 2024"
-		},
-		{
-			title:"TUBEOUT! 2024",
-			src:"/teleplay/TUBEOUT2024",
-			img:"https://s1.imagehub.cc/images/2024/07/28/65c2270b7b17a06eadf72cc5a5c9255e.jpeg",
-			releaseDate:"2024,7,12",
-			classify:"虚拟演唱会",
-			country:"中国",
-			state:"TUBEOUT! 2024"
 		},
 		{
 			title:"沙丘2",
@@ -144,15 +108,6 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:12:59"
 		},
 		{
-			title:"2023热度年度总结",
-			src:"/teleplay/AnnualSummaryofPopularity/2023",
-			img:"https://s1.imagehub.cc/images/2023/12/16/4da10d5a770fd52080aa6375d9ac9d09.jpeg",
-			releaseDate:"2023,12,15",
-			classify:"套娃",
-			country:"中国",
-			state:"视频时长: 10:11"
-		},
-		{
 			title:"涉过愤怒的海",
 			src:"/film/AcrosstheFuriousSea",
 			img:"https://s1.imagehub.cc/images/2024/01/13/cf3a7494cdcfb3eee68c3f0b3478b005.jpeg",
@@ -205,15 +160,6 @@ export const TheBangumiList = ()=>{
 			classify:"犯罪",
 			country:"中国",
 			state:"影片时长: 2:09:55"
-		},
-		{
-			title:"BILIBILI MACRO LINK 2023",
-			src:"/teleplay/BML2023/01",
-			img:"https://s1.imagehub.cc/images/2023/11/03/f5fe54b0f1912636d3129f3cd8fe049e.jpeg",
-			releaseDate:"2023,7,22",
-			classify:"综合演唱会",
-			country:"中国",
-			state:"BILIBILI MACRO LINK 2023"
 		},
 		{
 			title:"消失的她",
