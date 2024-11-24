@@ -18,6 +18,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"出走的决心",
+			src:"/film/LikeARollingStone",
+			img:"https://s1.imagehub.cc/images/2024/11/24/466cbe99a3a590714b7557b29438c1be.jpg",
+			releaseDate:"2024,9,15",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 1:45:20"
+		},
+		{
 			title:"异形：夺命舰",
 			src:"/film/Alien",
 			img:"https://s1.imagehub.cc/images/2024/10/18/14263a888127c08369e650be307d5fd3.jpg",
