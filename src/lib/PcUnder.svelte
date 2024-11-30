@@ -26,7 +26,7 @@
 
 <main>
     <div class="mainBox">
-        <a href="/" class="webMap"><span>&copy; <script> document.write('' + (new Date()).getFullYear()) </script> MUSESTAR</span></a>
+        <a href="/" class="webMap"><span>&copy; 2025 MUSESTAR</span></a>
         <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span>萌ICP备20226956号</span></a>
         <a href="https://stats.uptimerobot.com/NJ9gBiMZ7D" class="webMap"><span>缪斯星服务状态</span></a>
         <i class="time">本站已运行 {sense}</i>
