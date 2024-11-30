@@ -26,8 +26,9 @@
 
 <main>
     <div class="mainBox">
-        <a href="/" class="webMap"><span class="wiText">&copy; 2024 MUSESTAR</span></a>
+        <a href="/" class="webMap"><span class="wiText">&copy; <script> document.write('' + (new Date()).getFullYear()) </script> MUSESTAR</span></a>
         <a href="https://icp.gov.moe/?keyword=20226956" class="webMap"><span class="wiText">萌ICP备20226956号</span></a>
+        <a href="https://stats.uptimerobot.com/NJ9gBiMZ7D" class="webMap"><span class="wiText">缪斯星服务状态</span></a>
         <i class="time">本站已运行 {sense}</i>
     </div>
 </main>
