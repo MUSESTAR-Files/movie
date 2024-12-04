@@ -126,6 +126,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:23:55"
 		},
 		{
+			title:"河边的错误",
+			src:"/film/OnlytheRiverFlows",
+			img:"https://s1.imagehub.cc/images/2024/12/04/9df303acae0db5b9dae431089ba0f127.png",
+			releaseDate:"2023,10,21",
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 1:41:548"
+		},
+		{
 			title:"洛基 第二季",
 			src:"/teleplay/Loki2",
 			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
