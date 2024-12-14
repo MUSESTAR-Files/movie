@@ -11,7 +11,7 @@ export const TheBangumiList = ()=>{
 		{
 			title:"2024最美的夜",
 			src:"/teleplay/zmdy/2024",
-			img:"https://s1.imagehub.cc/images/2024/12/05/8eea3b1526bd0783ae227e4f9f4f98fd.jpg",
+			img:"https://s1.imagehub.cc/images/2024/12/14/ebbf24e85f91282f8187dd768a28674b.png",
 			releaseDate:"2024,12,31",
 			classify:"跨年晚会",
 			country:"中国",
