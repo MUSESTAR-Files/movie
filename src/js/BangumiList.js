@@ -27,6 +27,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"毒液：最后一舞",
+			src:"/film/Venom3",
+			img:"https://s1.imagehub.cc/images/2024/12/14/591edfc09936e96d2d724a4f7adcf1f8.jpg",
+			releaseDate:"2024,10,23",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:48:55"
+		},
+		{
 			title:"出走的决心",
 			src:"/film/LikeARollingStone",
 			img:"https://s1.imagehub.cc/images/2024/11/24/466cbe99a3a590714b7557b29438c1be.jpg",
