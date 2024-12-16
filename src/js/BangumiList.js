@@ -27,6 +27,15 @@ export const TheBangumiList = ()=>{
 			state:"第三方播放源在线播放"
 		},
 		{
+			title:"鱿鱼游戏 第二季",
+			src:"/teleplay/SquidGame2/01",
+			img:"https://s1.imagehub.cc/images/2024/12/16/4830fb9ff71a01e44b066491e3468888.png",
+			releaseDate:"2024,12,26",
+			classify:"动作",
+			country:"韩国",
+			state:"总集数: 6"
+		},
+		{
 			title:"毒液：最后一舞",
 			src:"/film/Venom3",
 			img:"https://s1.imagehub.cc/images/2024/12/14/591edfc09936e96d2d724a4f7adcf1f8.jpg",
