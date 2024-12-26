@@ -33,7 +33,7 @@ export const TheBangumiList = ()=>{
 			releaseDate:"2024,12,26",
 			classify:"动作",
 			country:"韩国",
-			state:"总集数: 6"
+			state:"总集数: 7"
 		},
 		{
 			title:"毒液：最后一舞",
