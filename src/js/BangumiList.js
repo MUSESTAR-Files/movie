@@ -9,15 +9,6 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
-			title:"2024最美的夜",
-			src:"/teleplay/zmdy/2024",
-			img:"https://s1.imagehub.cc/images/2024/12/14/ebbf24e85f91282f8187dd768a28674b.png",
-			releaseDate:"2024,12,31",
-			classify:"跨年晚会",
-			country:"中国",
-			state:"2024最美的夜"
-		},
-		{
 			title:"搜索",
 			src:"https://video.musestar.cc/",
 			img:"https://api.anosu.top/api/?sort=all",
