@@ -144,6 +144,15 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 2:23:55"
 		},
 		{
+			title:"尸体",
+			src:"/teleplay/bodies/01",
+			img:"https://s1.imagehub.cc/images/2025/03/05/e5322ac5a40357910dbd77907f6138b7.jpg",
+			releaseDate:"2023年10月19日",
+			classify:"悬疑",
+			country:"英国",
+			state:"总集数: 6"
+		},
+		{
 			title:"洛基 第二季",
 			src:"/teleplay/Loki2",
 			img:"https://s1.imagehub.cc/images/2023/11/03/09757e6198a5efc12bb76a8cfa68b26b.png",
