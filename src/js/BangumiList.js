@@ -9,13 +9,13 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
-			title:"搜索",
-			src:"https://video.musestar.cc/",
-			img:"https://api.anosu.top/api/?sort=all",
-			releaseDate:"2077年1月1日",
-			classify:"自定义",
-			country:"搜索",
-			state:"第三方播放源在线播放"
+			title:"误杀3",
+			src:"/film/wusha3",
+			img:"https://s1.imagehub.cc/images/2025/04/03/90e1ea2bfa418bf98c2412c5143d8152.jpg",
+			releaseDate:"2024年12月28日",
+			classify:"犯罪",
+			country:"中国",
+			state:"影片时长: 1:49:36"
 		},
 		{
 			title:"鱿鱼游戏 第二季",
