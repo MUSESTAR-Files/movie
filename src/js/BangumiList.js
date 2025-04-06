@@ -9,6 +9,15 @@ export const TheImgList = ()=> {
 export const TheBangumiList = ()=>{
 	return [
 		{
+			title:"我的世界大电影",
+			src:"/film/minecraft",
+			img:"https://s1.imagehub.cc/images/2025/04/06/ae2d7211620c4b8994a01feb89151d9a.jpg",
+			releaseDate:"2025年4月4日",
+			classify:"奇幻",
+			country:"美国",
+			state:"影片时长: 1:34:04"
+		},
+		{
 			title:"误杀3",
 			src:"/film/wusha3",
 			img:"https://s1.imagehub.cc/images/2025/04/03/90e1ea2bfa418bf98c2412c5143d8152.jpg",
