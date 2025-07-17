@@ -1,13 +1,40 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2024/12/14/591edfc09936e96d2d724a4f7adcf1f8.jpg", href: '/teleplay/SquidGame2/01'},
-		{src: "https://s1.imagehub.cc/images/2024/12/16/4830fb9ff71a01e44b066491e3468888.png", href: '/film/Venom3'}
+		{src: "https://s1.imagehub.cc/images/2025/07/17/9a91f9f630a1f87417ca80842e59b760.jpg", href: '/teleplay/Murderbot/01'},
+		{src: "https://s1.imagehub.cc/images/2025/07/17/349635f869aeea757900c7ea3c033c91.jpg", href: '/teleplay/SquidGame3/01'}
 	];
 }
 //下面是电影列表
 export const TheBangumiList = ()=>{
 	return [
+		{
+			title:"鱿鱼游戏 第三季",
+			src:"/teleplay/SquidGame3/01",
+			img:"https://s1.imagehub.cc/images/2025/07/17/9a91f9f630a1f87417ca80842e59b760.jpg",
+			releaseDate:"2025年6月27日",
+			classify:"动作",
+			country:"韩国",
+			state:"总集数: 6"
+		},
+		{
+			title:"杀戮人机",
+			src:"/teleplay/Murderbot/01",
+			img:"https://s1.imagehub.cc/images/2025/07/17/349635f869aeea757900c7ea3c033c91.jpg",
+			releaseDate:"2025年5月16日",
+			classify:"科幻",
+			country:"美国",
+			state:"总集数: 10"
+		},
+		{
+			title:"水饺皇后",
+			src:"/film/TheDumplingQueen",
+			img:"https://s1.imagehub.cc/images/2025/07/17/2488a13961b762d6309e3c2d02e92079.jpg",
+			releaseDate:"2025年4月30日",
+			classify:"剧情",
+			country:"中国",
+			state:"影片时长: 1:59:41"
+		},
 		{
 			title:"我的世界大电影",
 			src:"/film/minecraft",
@@ -16,6 +43,15 @@ export const TheBangumiList = ()=>{
 			classify:"奇幻",
 			country:"美国",
 			state:"影片时长: 1:34:04"
+		},
+		{
+			title:"美国队长4",
+			src:"/film/CaptainAmerica4",
+			img:"https://s1.imagehub.cc/images/2025/07/17/eb925c22310e9d38e8992c56e1218ee6.jpg",
+			releaseDate:"2025年2月14日",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 1:58:36"
 		},
 		{
 			title:"误杀3",
