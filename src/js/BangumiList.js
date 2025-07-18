@@ -1,8 +1,9 @@
 //下面是滚动图列表
 export const TheImgList = ()=> {
 	return [
-		{src: "https://s1.imagehub.cc/images/2025/07/17/9a91f9f630a1f87417ca80842e59b760.jpg", href: '/teleplay/Murderbot/01'},
-		{src: "https://s1.imagehub.cc/images/2025/07/17/349635f869aeea757900c7ea3c033c91.jpg", href: '/teleplay/SquidGame3/01'}
+		{src: "https://s1.imagehub.cc/images/2025/07/17/9a91f9f630a1f87417ca80842e59b760.jpg", href: '/film/TDragon'},
+		{src: "https://s1.imagehub.cc/images/2025/07/17/349635f869aeea757900c7ea3c033c91.jpg", href: '/teleplay/SquidGame3/01'},
+		{src: "https://s1.imagehub.cc/images/2025/07/18/805efbcacba91628a52ecc7b2c91b4ae.jpg", href: '/teleplay/Murderbot/01'},
 	];
 }
 //下面是电影列表
@@ -16,6 +17,15 @@ export const TheBangumiList = ()=>{
 			classify:"动作",
 			country:"韩国",
 			state:"总集数: 6"
+		},
+		{
+			title:"新·驯龙高手",
+			src:"/film/TDragon",
+			img:"https://s1.imagehub.cc/images/2025/07/18/805efbcacba91628a52ecc7b2c91b4ae.jpg",
+			releaseDate:"2025年6月13日",
+			classify:"剧情",
+			country:"美国",
+			state:"影片时长: 2:05:19"
 		},
 		{
 			title:"杀戮人机",
@@ -36,13 +46,22 @@ export const TheBangumiList = ()=>{
 			state:"影片时长: 1:59:41"
 		},
 		{
+			title:"雷霆特攻队*",
+			src:"/film/Thunderbolts",
+			img:"https://s1.imagehub.cc/images/2025/07/18/a15c662ea4832a55b6c9d2cf9425775d.jpg",
+			releaseDate:"2025年4月30日",
+			classify:"科幻",
+			country:"美国",
+			state:"影片时长: 2:07:50"
+		},
+		{
 			title:"我的世界大电影",
 			src:"/film/minecraft",
 			img:"https://s1.imagehub.cc/images/2025/04/06/ae2d7211620c4b8994a01feb89151d9a.jpg",
 			releaseDate:"2025年4月4日",
 			classify:"奇幻",
 			country:"美国",
-			state:"影片时长: 1:34:04"
+			state:"影片时长: 1:41:09"
 		},
 		{
 			title:"美国队长4",
